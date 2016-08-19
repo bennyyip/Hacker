@@ -1,14 +1,16 @@
 menu:
   Home: /
   Archives: /archives
+  GitHub: https://github.com/bennyyip
+  RSS: /atom.xml
 
 # duoshuo comment
 duoshuo: false
-duoshuo_name: 
+duoshuo_name:
 
 # disqus comment
 disqus: false
-disqus_shortname: 
+disqus_shortname:
 
 # google analytics
-googleTrackId: 
+googleTrackId: UA-77734675-1
